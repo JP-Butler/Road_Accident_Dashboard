@@ -4,7 +4,7 @@
 A guided Excel Dashboard project using simulated "demo" Road Accident data from 2021 and 2022. In the format of a client-to-Analyst request for a **Dynamic Dashboard** covering several KPI's with visualizations, listed below in the Requirement section.
 
 ## Overview & Aim
-To create a dynamic Excel Dashboard to fulfill a client request for a dynamic excel dashboard, delivering on several Key Performance Indicators (KPI's) such as total casualties, filtered by several factors such as road surface, area and time of day.
+To create a dynamic Excel Dashboard to fulfill a client request for a dynamic excel dashboard, delivering on several Key Performance Indicators (KPI's) such as total casualties and accident severity, filtered by several factors such as road surface, area and time of day.
 
 ## Client Requirements 
 * **Primary KPS** - Total casualties taken place after the accident
